@@ -1,3 +1,7 @@
+Following NestJS Crash Course Tutorial from [Traversy Media](https://www.youtube.com/watch?v=wqhNoDE6pb4&list=PL0C86gfJrWR7OvBOVGkAXbhVfatXIXgsL&index=1) using MongoDB and Mongoose.
+
+
+
 <p align="center">
   <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo_text.svg" width="320" alt="Nest Logo" /></a>
 </p>
